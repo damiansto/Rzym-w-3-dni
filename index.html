@@ -11,7 +11,7 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">Rzym-w-3-dni</h1>
+      <h1 class="project-name">Rzym w 3 dni</h1>
       <h2 class="project-tagline"></h2>
       <a href="https://github.com/damiansto/Rzym-w-3-dni" class="btn">View on GitHub</a>
       <a href="https://github.com/damiansto/Rzym-w-3-dni/zipball/master" class="btn">Download .zip</a>
